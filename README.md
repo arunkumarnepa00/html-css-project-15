@@ -15,4 +15,4 @@ Product Design landing page
 ![home page](./thumbnail.png)
 
 ## Live Link
-- [click here](https://arunpagedesign15.netlify.app)
+- [click here](https://arun-html-css-p15.netlify.app)
